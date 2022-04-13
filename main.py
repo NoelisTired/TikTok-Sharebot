@@ -35,8 +35,6 @@ except:
     else:
         print(Colorate.Horizontal(Colors.red_to_white, Center.XCenter("Please enter a valid URL!"), 1))
 
-
-print(videoid)
 key = Write.Input(Center.XCenter("Enter your key: (noelp.live) "), Colors.red_to_white, interval=0.0100)
 while True:
     response = requests.get(f"https://noelp-backend.xyz/shares?id={str(videoid)}&key={key}")
