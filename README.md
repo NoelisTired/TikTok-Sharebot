@@ -1,6 +1,6 @@
 # TikTok-Sharebot
 No bullshittery, and as per usual. Nothing you've seen before! Automating my OWN api now!
-🔴- Disabled due @free_share_tool spamming my tool, no credits at all. fucking retard. Die in a fire.
+If you're using it, please give credit.
 ## ⚡ Requirements:
 ```cs
   - pip install requests
