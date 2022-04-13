@@ -24,7 +24,7 @@ videoid = Write.Input(Center.XCenter("Enter your key: (noelp.live) "), Colors.re
 while True:
     response = requests.get(f"https://noelp-backend.xyz/shares?id={str(videoid)}&key={key}")
     if response.status_code == 200:
-        print("We've sent 1000 Shares!")
+        print(response.text)
         
     elif response.status_code == 429:
         print("Exceeded ratelimit, come back in 24 hours!")
