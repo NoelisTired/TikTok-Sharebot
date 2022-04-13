@@ -18,7 +18,7 @@ No bullshittery, and as per usual. Nothing you've seen before! Automating my OWN
 
 ## 🚀 Setup the Bot:
 ```cs
-  - Enter the VideoID and it'll loop until you exceed the ratelimit of 24 hours
+  - Enter the VideoID and it'll loop until you stop it
 ```
 
 #
