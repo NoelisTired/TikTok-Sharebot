@@ -5,7 +5,6 @@ If you're using it, please give credit.
 ```cs
   - pip install requests
   - pip install pystyle
-  - pip install threading
 ```
 
 ## 🐺 Features:
