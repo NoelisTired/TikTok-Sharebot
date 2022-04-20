@@ -3,17 +3,13 @@ try:
     import requests
     import pystyle
     from pystyle import Colors, Colorate, Add, Center, Box, Write
-    import threading
-    from threading import Thread
 except:
     os.system("pip install requests")
-    os.system("pip install threading")
     os.system("pip install pystyle")
 import requests
 import pystyle
 from pystyle import Colors, Colorate, Add, Center, Box, Write
 import threading
-from threading import Thread
 
 print(Colorate.Horizontal(Colors.red_to_white, Center.XCenter(f"[NoelP X] Welcome to the (open-source) client to interact with a lil project that has been worked on"), 1))
 print(Colorate.Horizontal(Colors.red_to_white, Center.XCenter(f"As of right now there's a ratelimit of 10.000 shares/day\n\n"), 1))
