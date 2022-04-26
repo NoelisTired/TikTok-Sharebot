@@ -1,4 +1,6 @@
 # TikTok-Sharebot
+
+🔴-Discontinued (Closed the page due it being threadedspammed!-
 No bullshittery, and as per usual. Nothing you've seen before! Automating my OWN api now!
 If you're using it, please give credit.
 ## ⚡ Requirements:
